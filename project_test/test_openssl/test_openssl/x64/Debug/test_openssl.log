@@ -1,6 +1,0 @@
-﻿test_openssl.obj : error LNK2019: 无法解析的外部符号 MD5_Init，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPEBDPEAD@Z) 中引用了该符号
-test_openssl.obj : error LNK2019: 无法解析的外部符号 MD5_Update，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPEBDPEAD@Z) 中引用了该符号
-test_openssl.obj : error LNK2019: 无法解析的外部符号 MD5_Final，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPEBDPEAD@Z) 中引用了该符号
-C:\Program Files (x86)\OpenSSL-Win32\lib\libssl.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
-C:\Program Files (x86)\OpenSSL-Win32\lib\libcrypto.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
-E:\Repository\project_test\test_openssl\x64\Debug\test_openssl.exe : fatal error LNK1120: 3 个无法解析的外部命令
