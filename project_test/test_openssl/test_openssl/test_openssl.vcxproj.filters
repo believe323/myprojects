@@ -18,5 +18,28 @@
     <ClCompile Include="test_openssl.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcast_asn1_der.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcastderlog.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\teacher.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcast_asn1_der.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcastderlog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\keymng_msg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\teacher.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

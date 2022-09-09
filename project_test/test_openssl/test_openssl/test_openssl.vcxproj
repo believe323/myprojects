@@ -137,7 +137,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcastderlog.c" />
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcast_asn1_der.c" />
+    <ClCompile Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\teacher.c" />
     <ClCompile Include="test_openssl.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcastderlog.h" />
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\itcast_asn1_der.h" />
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\keymng_msg.h" />
+    <ClInclude Include="C:\Users\壮壮妈\Desktop\项目2\TeacherTest\TeacherTest\teacher.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
